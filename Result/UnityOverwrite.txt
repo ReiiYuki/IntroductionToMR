@@ -7,8 +7,8 @@
 # Default behavior is to never overwrite files
 IntroductionToMR.sln: D98CC0ADF63436A724664657D5721ADF
 IntroductionToMR\App.cs: 90104EA67DE1C4EBFAC1EDFFAFBDE5BE
-IntroductionToMR\IntroductionToMR.csproj: 8711063AAD54DF23A893351505B65EE2
-IntroductionToMR\IntroductionToMR.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
+IntroductionToMR\IntroductionToMR.csproj: B78BB37E6A00CD1CE83518DBA9BF153F
+IntroductionToMR\IntroductionToMR.csproj.user: modified
 IntroductionToMR\Package.appxmanifest: 5A471CDAD4CAD23583382B1FFBBE8DB7
 IntroductionToMR\project.json: 1D02BC64BAC0D041019673A1C4C51737
 IntroductionToMR\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D

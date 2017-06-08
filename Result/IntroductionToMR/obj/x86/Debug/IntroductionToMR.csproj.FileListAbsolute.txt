@@ -111,6 +111,7 @@ C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\System.Xml.XDocument.dll
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\System.Xml.XmlDocument.dll
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\Assembly-CSharp.dll
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\BridgeInterface.winmd
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\nunit.framework.dll
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\UnityEngine.Analytics.dll
@@ -124,6 +125,7 @@ C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\UnityPlayer.winmd
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\WinRTBridge.winmd
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\WinRTLegacy.dll
+C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\Assembly-CSharp.pdb
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\UnityEngine.pdb
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\UnityEngine.Analytics.pdb
 C:\Users\yukir\Documents\IntroductionToMR\Result\IntroductionToMR\bin\x86\Debug\nunit.framework.pdb
